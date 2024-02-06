@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Menu 1.unity
+    guid: 5ecd38b65065fd64fbfa749286454194
+  - enabled: 1
+    path: Assets/Scenes/Kuis 1.unity
+    guid: 3839bd7d8b2d0c348ad4924d1268dfb9
+  - enabled: 1
+    path: Assets/Scenes/about.unity
+    guid: 773cfab7d6001294fbd8cc5faed61146
+  - enabled: 1
+    path: Assets/Scenes/keluar.unity
+    guid: 1812f34146a25504996d3c9fc7ebcb0b
+  - enabled: 1
+    path: Assets/Scenes/Kuis 2.unity
+    guid: 166cb7893e01c6a41858a1aeecd65b04
+  - enabled: 1
+    path: Assets/Scenes/Kuis 3.unity
+    guid: 5ad2af979e433174b83dfa38d862f891
+  - enabled: 1
+    path: Assets/Scenes/Kuis 4.unity
+    guid: 25b99da62aaf2fc4abcd9bd820c6bcd3
+  - enabled: 1
+    path: Assets/Scenes/Kuis 5.unity
+    guid: b9238beb2cfd05c44a0be0f7db79f337
+  - enabled: 1
+    path: Assets/Scenes/Kuis 6.unity
+    guid: e2939fff78459d34e99608e2b3c636bb
+  - enabled: 1
+    path: Assets/Scenes/Kuis 7.unity
+    guid: bd7ec32b6b349e64db2631e8f4483394
+  - enabled: 1
+    path: Assets/Scenes/Kuis 8.unity
+    guid: 3f2f1f4363e7187449436d1960da22dd
+  - enabled: 1
+    path: Assets/Scenes/Kuis 9.unity
+    guid: 96ccb6119861f834c812a8397a8a367e
+  - enabled: 1
+    path: Assets/Scenes/Kuis 10.unity
+    guid: 4d7b2fb5c015c7c43a61799e013b0e2f
+  - enabled: 1
+    path: Assets/Scenes/Kuis 11.unity
+    guid: 3c6345432db616041855f62c03e1a487
+  - enabled: 1
+    path: Assets/Scenes/Kuis 12.unity
+    guid: 1e2ec15cb8756654882d865450e54a8f
+  - enabled: 1
+    path: Assets/Scenes/Kuis 13.unity
+    guid: 2b496092129aaa7498ae5a243dab0680
+  - enabled: 1
+    path: Assets/Scenes/Kuis 14.unity
+    guid: 7f99d20811e898e439b4a376bc7c0981
+  - enabled: 1
+    path: Assets/Scenes/Kuis 15.unity
+    guid: 9dafe67bcf89f1d458ba7a5026c5783d
+  - enabled: 1
+    path: Assets/Scenes/Kuis 16.unity
+    guid: 85955dd67387ab34793f8c4e357f72c8
+  - enabled: 1
+    path: Assets/Scenes/Hasil.unity
+    guid: 3ff505d6ee6580c40a6d012c63bbe392
+  - enabled: 1
+    path: Assets/Scenes/Restart.unity
+    guid: 0f5bf32e7c8403843a5ff2678a8e0f70
+  - enabled: 1
+    path: Assets/Scenes/Restart 1.unity
+    guid: ba9a05495963fe444b8226f4f58bd9ff
+  - enabled: 1
+    path: Assets/Scenes/Restart 2.unity
+    guid: deb3a68561db4b94a912db56c518fff2
+  - enabled: 1
+    path: Assets/Scenes/Pause.unity
+    guid: 0038cc6a8164d9a45b07604f929690cd
+  - enabled: 1
+    path: Assets/Scenes/Pause 1.unity
+    guid: d3b834e4a2098474ba536fe35e51aaa8
+  - enabled: 1
+    path: Assets/Scenes/Pause 2.unity
+    guid: 2be7453f4c0f8ef418f3274d8e586de5
+  - enabled: 1
+    path: Assets/Scenes/Pause 3.unity
+    guid: e23db89348d656f469addcb1ade8fbdc
+  - enabled: 1
+    path: Assets/Scenes/Pause 4.unity
+    guid: c65196c60f9c2ae4a900d6f774fa780f
+  - enabled: 1
+    path: Assets/Scenes/Pause 5.unity
+    guid: 9b0581899cd55684492ef51be014cfbc
+  - enabled: 1
+    path: Assets/Scenes/Pause 6.unity
+    guid: 2d68d89aa2d02cd48b5c18662daaa57b
+  - enabled: 1
+    path: Assets/Scenes/Pause 7.unity
+    guid: 923aa2549c0c7c14eb704ae29f9f0ea9
+  - enabled: 1
+    path: Assets/Scenes/Pause 8.unity
+    guid: f866a0a1f78b6a844921cf378301a5cb
+  - enabled: 1
+    path: Assets/Scenes/Pause 9.unity
+    guid: 8f20e84fb2e33c74bba23d5fba7f1b32
+  - enabled: 1
+    path: Assets/Scenes/Pause 10.unity
+    guid: 05795d31e29e38f45bcb9045ccef1a43
+  - enabled: 1
+    path: Assets/Scenes/Pause 11.unity
+    guid: a6c413e761d681f498f8d1c6ae879917
+  - enabled: 1
+    path: Assets/Scenes/Pause 12.unity
+    guid: 0023475c3dcb63741a04f6ddf8811a7e
+  - enabled: 1
+    path: Assets/Scenes/Pause 13.unity
+    guid: 416024fd471c6e84d9bb4354e1ee8347
+  - enabled: 1
+    path: Assets/Scenes/Pause 14.unity
+    guid: 1992783d64fef6e44846dd8add221ded
+  - enabled: 1
+    path: Assets/Scenes/Pause 15.unity
+    guid: 886c7f84dd0695247a2168bf1f3f8d1b
+  m_configObjects: {}
